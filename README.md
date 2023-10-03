@@ -16,6 +16,8 @@ age_gender_bkts.csv - summary statistics of users' age group, gender, country of
 
 sample_submission.csv - correct format for submitting your predictions
 
+
+
 In the notebook, code performs analysis using KNeighbors and RandomForest model and visualizes various aspects of the analysis. Below is a step-by-step summary of the code's strategy:
 
 1. Data Import and Preprocessing
