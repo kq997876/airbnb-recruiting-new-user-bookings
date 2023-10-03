@@ -18,8 +18,12 @@ sample_submission.csv - correct format for submitting your predictions
 
 In the notebook, code performs analysis using KNeighbors and RandomForest model and visualizes various aspects of the analysis. Below is a step-by-step summary of the code's strategy:
 
-Data Import and Preprocessing
-Data Visualization
-One Hot Encoding Feature
-Data Splitting
-Model Evaluation
+1. Data Import and Preprocessing
+
+2. Data Visualization
+
+3. One Hot Encoding Feature
+
+4. Data Splitting
+
+5. Model Evaluation
