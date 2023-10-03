@@ -4,7 +4,7 @@ New users on Airbnb can book a place to stay in 34,000+ cities across 190+ count
 
 File descriptions:
 
-train_users.csv - the training set of users
+train_users.csv - the training set of users 
 test_users.csv - the test set of users
 sessions.csv - web sessions log for users
 countries.csv - summary statistics of destination countries in this dataset and their locations
